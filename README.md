@@ -2,5 +2,5 @@
 
 
 
-* [Installation](https://github.com/xcollab/sql/installation.md)
+* [Installation](https://github.com/xcollab/sql/blob/main/installation.md)
 
